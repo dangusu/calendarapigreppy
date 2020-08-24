@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/api/eventdelete.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/phpunit.xml</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/includes/autoload.inc.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/classes/db.class.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/classes/events.class.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/api/eventcreate.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/api/eventupdate.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/index.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/composer.json</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/api/eventread.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/tests/classes/UsersTest.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/vendor/autoload.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/classes/users.class.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/api/eventselect.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/api/usercreate.php</file>
+            <file>file:/D:/xampp56/htdocs/restapicalendar/api/userauth.php</file>
+        </group>
+    </open-files>
+</project-private>
